@@ -1,8 +1,6 @@
 # React JWT Authentication & RBAC System
 
-React Login + JWT Protected Routes + RBAC
-This project combines:
-
+This project includes:
 - Responsive React login UI
 - Client-side validation with React state/hooks
 - JWT authentication with Express
