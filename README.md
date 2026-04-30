@@ -1,4 +1,4 @@
-# Exp 8 - React Login + JWT Protected Routes + RBAC
+# React Login + JWT Protected Routes + RBAC
 
 This project combines:
 
